@@ -9,7 +9,7 @@ How to use?
 
 ```javascript
 namespace.module('Module.Core', function(exports, require) {
-    exports.mothedA = function() {
+    exports.methodA = function() {
         console.log('methodA');
     } 
 });
